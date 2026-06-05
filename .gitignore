@@ -7,5 +7,12 @@ Release/
 *.pdb
 *.exe
 *.dll
+.env
+.env.*
+secrets.json
+*.pem
+*.pfx
+*.key
+*.publishsettings
+azureProfile.json
 *.log
-
